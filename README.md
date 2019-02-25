@@ -17,4 +17,4 @@ A short jupyter notebook script using multi-layer perceptrons in scikit-learn to
 
 ## tableau
 ### GHG Dashboards
-A tool for visualizing historic and recent (1990-2014) greenhouse gas emissions by country using various metrics.
+A tool for visualizing historic and recent (1990-2014) greenhouse gas emissions by country in terms of various metrics.
