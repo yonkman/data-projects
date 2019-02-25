@@ -15,7 +15,7 @@ def getPlayerMapHistory(player_str, player_id, start_str, end_str, deep_dive):
     
     if last_week + dt.timedelta(weeks=1) < dt.date.today():
         print('New ranks available, updating top30.csv')
-        # updateTop30('top30.csv')
+        updateTop30('top30.csv')
         # updates the file each week
         
         teams_df = pd.read_csv('top30.csv')
@@ -94,6 +94,7 @@ def getPlayerMapHistory(player_str, player_id, start_str, end_str, deep_dive):
 
     
 def updateTop30(filename):
+    
     from urllib.request import Request, urlopen
     from bs4 import BeautifulSoup
     from time import sleep
