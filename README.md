@@ -13,7 +13,7 @@ Models the temperature profile of a simple one-dimensional rod with heat source 
 ### model_csgo
 The only work-in-progress in this repo. Designed to predict match outcomes by assigning ratings to professional CounterStrike: Global Offensive players by scraping their performance data from the web using pandas and BeautifulSoup. 
 ### Neural Network Wine Classification
-A short python script using multi-layer perceptrons in scikit-learn to predict the origin of a wine given its 13-feature chemical profile.
+A short jupyter notebook script using multi-layer perceptrons in scikit-learn to predict the origin of a wine given its 13-feature chemical profile.
 
 ## tableau
 ### GHG Dashboards
