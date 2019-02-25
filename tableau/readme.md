@@ -12,7 +12,7 @@ Each of the 191 countries with available data are ranked and plotted on a world 
 * GHGs per Capita
 
 
-This initial sheet introduces the variables which will be explored further in subsequent sheets. In particular, we are interested in greenhouse gases per capita, which we can view as a national measure of consumption, and GDP per capita, a measure of wealth.
+This initial sheet introduces the variables which will be explored further in subsequent sheets. In particular, we are interested in greenhouse gases per capita, which we can view as a national measure of inefficiencies and consumption, and GDP per capita, a measure of wealth.
 
 #### Progress??
 On this sheet, each country (as well as the world total) are plotted by bubble chart, where the size of the bubble represents total emissions. The y-axis gives emissions per capita, a measure of both inefficiency and consumption. The x-axis represents GHG emissions per GDP, in tons of CO2 equivalent per $1000 USD. This can be seen as a measure of efficiency in creating wealth, where more efficient countries will be nearest the origin, while less efficient (often oil-producing) nations will have greater emissions per GDP. 
