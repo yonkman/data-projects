@@ -9,7 +9,9 @@ Each of the 191 countries with available data are ranked and plotted on a world 
 * GDP
 * Population
 * GDP per Capita
-* GHGs per Capita<br>
+* GHGs per Capita
+
+
 This initial sheet introduces the variables which will be explored further in subsequent sheets. In particular, we are interested in greenhouse gases per capita, which we can view as a national measure of consumption, and GDP per capita, a measure of wealth.
 
 #### Progress??
