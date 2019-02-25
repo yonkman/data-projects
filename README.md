@@ -7,7 +7,7 @@ A regression artificial neural network with mathematical nuts and bolts implemen
 ### Solar Array Optimization
 A tool to determine the optimal positioning of a rooftop solar PV array for a commercial building, and estimate the energy generation and payback period implied by such a project.
 ### Transient Conduction
-Models the temperature profile of a simple one-dimensional rod with heat source at time t. Example of time-dependant finite element analysis implemented in excel. 
+Models the temperature profile of a simple one-dimensional rod with heat source at time t. Example of time-dependent finite element analysis implemented in excel. 
 
 ## python
 ### model_csgo
