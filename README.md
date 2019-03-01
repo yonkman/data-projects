@@ -14,6 +14,8 @@ Models the temperature profile of a simple one-dimensional rod with heat source 
 The only work-in-progress in this repo. Designed to predict match outcomes by assigning ratings to professional CounterStrike: Global Offensive players by scraping their performance data from the web using pandas and BeautifulSoup. 
 ### Neural Network Wine Classification
 A short jupyter notebook script using multi-layer perceptrons in scikit-learn to predict the origin of a wine given its 13-feature chemical profile.
+### tweets
+A jupyter notebook example to query the Twitter API for recent tweets. The words contained in roughly 40,000 tweets by Donald Trump are sorted by frequency.
 
 ## tableau
 ### GHG Dashboards
